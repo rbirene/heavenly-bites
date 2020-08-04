@@ -1,0 +1,115 @@
+h1{
+    font-size: 70px;
+}
+
+body{
+    color: #303A7D;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+nav{
+    background-color: #FD9999;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+nav img{
+    height: 70px;
+}
+
+nav ul li{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+header{
+    background-color: #FFC8C4;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+header img{
+    height: 300px;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+section div{
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 250px;
+}
+
+section div img{
+    height: 200px;
+}
+
+#donut{
+    background-color: #75DAEA;
+}
+
+#cheesecake{
+    background-color: #656BB9;
+}
+
+#red-velvet-cake{
+    background-color: #DA5451;
+}
+
+#apple-pie{
+    background-color: #EFBA7A;
+}
+
+#cupcake{
+    background-color: #F4ABAB;
+}
+
+#milk-cake{
+    background-color: #C3E88D;
+}
+
+footer{
+    background-color: #FD9999;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
